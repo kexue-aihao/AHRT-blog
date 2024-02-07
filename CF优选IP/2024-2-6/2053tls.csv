@@ -1,0 +1,33 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+158.178.246.169,2053,true,SIN,Asia Pacific,Singapore,54 ms,40277 kB/s
+158.178.242.5,2053,true,SIN,Asia Pacific,Singapore,219 ms,32887 kB/s
+193.122.125.174,2053,true,ICN,Asia Pacific,Seoul,75 ms,24857 kB/s
+131.186.43.107,2053,true,NRT,Asia Pacific,Tokyo,187 ms,24622 kB/s
+138.3.215.11,2053,true,NRT,Asia Pacific,Tokyo,185 ms,24360 kB/s
+47.245.11.216,2053,true,NRT,Asia Pacific,Tokyo,64 ms,24055 kB/s
+8.222.237.131,2053,true,SIN,Asia Pacific,Singapore,57 ms,22931 kB/s
+8.222.215.228,2053,true,SIN,Asia Pacific,Singapore,51 ms,22313 kB/s
+129.154.209.138,2053,true,NRT,Asia Pacific,Tokyo,84 ms,21734 kB/s
+47.245.54.140,2053,true,NRT,Asia Pacific,Tokyo,71 ms,21253 kB/s
+8.219.42.72,2053,true,SIN,Asia Pacific,Singapore,47 ms,19591 kB/s
+47.91.10.228,2053,true,NRT,Asia Pacific,Tokyo,70 ms,16692 kB/s
+47.245.15.207,2053,true,NRT,Asia Pacific,Tokyo,64 ms,13078 kB/s
+144.21.32.193,2053,true,AMS,Europe,Amsterdam,169 ms,11705 kB/s
+141.147.61.116,2053,true,FRA,Europe,Frankfurt,196 ms,11698 kB/s
+144.24.169.81,2053,true,FRA,Europe,Frankfurt,184 ms,11094 kB/s
+8.219.121.87,2053,true,SIN,Asia Pacific,Singapore,55 ms,8029 kB/s
+47.91.22.115,2053,true,NRT,Asia Pacific,Tokyo,69 ms,6883 kB/s
+138.2.0.217,2053,true,NRT,Asia Pacific,Tokyo,176 ms,6360 kB/s
+132.145.54.84,2053,true,LHR,Europe,London,190 ms,5714 kB/s
+130.162.230.200,2053,true,FRA,Europe,Frankfurt,163 ms,5026 kB/s
+143.47.243.144,2053,true,LHR,Europe,London,186 ms,3874 kB/s
+130.162.229.42,2053,true,FRA,Europe,Frankfurt,198 ms,3371 kB/s
+130.61.211.43,2053,true,FRA,Europe,Frankfurt,185 ms,3171 kB/s
+132.226.193.37,2053,true,FRA,Europe,Frankfurt,164 ms,1485 kB/s
+143.47.182.56,2053,true,AMS,Europe,Amsterdam,176 ms,1360 kB/s
+141.148.236.12,2053,true,AMS,Europe,Amsterdam,178 ms,616 kB/s
+158.101.206.70,2053,true,AMS,Europe,Amsterdam,177 ms,119 kB/s
+8.222.145.43,2053,true,SIN,Asia Pacific,Singapore,48 ms,40 kB/s
+8.222.199.55,2053,true,SIN,Asia Pacific,Singapore,50 ms,37 kB/s
+8.222.156.205,2053,true,SIN,Asia Pacific,Singapore,56 ms,31 kB/s
+132.145.117.33,2053,true,NRT,Asia Pacific,Tokyo,186 ms,11 kB/s
