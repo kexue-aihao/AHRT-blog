@@ -1,6 +1,6 @@
 # AHRT-Blog
 
-![image](/img/top/top.jpg "首页")
+![image](/img/top/1.png)
 
 欢迎来到AHRT的个人博客
 
