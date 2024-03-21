@@ -6,7 +6,7 @@
 
 - 互联网始创时间
 
-[互联网始创时间](https://markdown.com.cn "互联网始创时间")
+[互联网始创时间](https://github.com/kexue-aihao/AHRT-blog/tree/master/%E4%BA%92%E8%81%94%E7%BD%91%E7%9F%A5%E8%AF%86#%E4%BA%92%E8%81%94%E7%BD%91%E5%A7%8B%E5%88%9B%E6%97%B6%E9%97%B4 "互联网始创时间")
 
 
 
