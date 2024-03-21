@@ -16,6 +16,10 @@
 
 [关于计算机科学网的一些介绍](https://github.com/kexue-aihao/AHRT-blog/tree/master/%E4%BA%92%E8%81%94%E7%BD%91%E7%9F%A5%E8%AF%86#%E5%85%B3%E4%BA%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%BD%91%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BB%8B%E7%BB%8D "关于计算机科学网的一些介绍")
 
+- 关于中文互联网的介绍
+
+[关于中文互联网的介绍](https://github.com/kexue-aihao/AHRT-blog/tree/master/%E4%BA%92%E8%81%94%E7%BD%91%E7%9F%A5%E8%AF%86#%E5%85%B3%E4%BA%8E%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E4%BB%8B%E7%BB%8D "关于中文互联网的介绍")
+
 []( "")
 
 
@@ -78,9 +82,13 @@
 
     海内中文互联网的东西都要经过审查，如果审核不通过，则会被禁止发布
 
-    海外中文互联网示例网站:
+- 海外中文互联网示例网站:
 
-    https://www.physixfan.com/zhongwenhulianwangdeneirongchanchuweishenmejianjiankuwei/
+> https://www.physixfan.com/zhongwenhulianwangdeneirongchanchuweishenmejianjiankuwei/
 
 -------------------
 
+### 对于中文互联网的分析
+
+
+-------------------
