@@ -277,7 +277,9 @@ SSL和TLS版本的历史
 
     经过雪人计划的实施，我国不但拥有了一台主根服务器，同时还拥有3台辅根服务器，共计4台。
 
-| 国家      | Description | Test Text     |
+"雪人计划" IPV6根服务器全球分布情况
+
+| 国家      | 主根服务器 | 辅根服务器| 国家      | 
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
