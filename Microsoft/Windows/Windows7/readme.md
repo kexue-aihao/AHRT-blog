@@ -81,6 +81,63 @@
 
 ### 通用系统优化方法
 
+> 安装必备的运行库
+
+> 安装 Microsoft Visual C++运行库合集包完整版
+
+> 软件预览图:
+
+![image](/img/Microsoft/Windows/Windows7/4.png)
+
+> 软件界面预览图:
+
+![image](/img/Microsoft/Windows/Windows7/5.png)
+
+    直接按Next下一步进行安装就好了，这里无需多言
+
+> 安装运行库的过程:
+
+![image](/img/Microsoft/Windows/Windows7/6.png)
+
+> 安装完成后的界面:
+
+![image](/img/Microsoft/Windows/Windows7/7.png)
+
+    可以直接点击×，关闭页面，也可以点Finish，Finish就是结束的意思，在这个应用场景下就是完成的意思
+
+> 安装完成后，检查安装的运行库是否齐全
+
+![image](/img/Microsoft/Windows/Windows7/8.png)
+
+> 安装 微软常用运行库合集包
+
+> 软件预览图：
+
+![image](/img/Microsoft/Windows/Windows7/9.png)
+
+> 软件界面预览图:
+
+![image](/img/Microsoft/Windows/Windows7/10.png)
+
+![image](/img/Microsoft/Windows/Windows7/11.png)
+
+> 安装运行库的过程:
+
+![image](/img/Microsoft/Windows/Windows7/12.png)
+
+> 安装完成后的界面:
+
+![image](/img/Microsoft/Windows/Windows7/13.png)
+
+> 直接点击完成关闭即可
+
+
+
+
+
+
+
+
 --------------------
 
 Windows 7 SP1 6.1.7601.27066 2024.4 RTM x86（含IE11更新和功能更新）
