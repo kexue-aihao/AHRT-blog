@@ -73,6 +73,10 @@
 
 ![image](/img/Microsoft/Windows/Windows7/3.png)
 
+> Windows 11太阳谷图标一键换资源下载地址
+
+[Windows 11太阳谷图标一键换](https://pan.huang1111.cn/s/EZG7ib "Windows 11太阳谷图标一键换")
+
 --------------------
 
 ### 通用系统优化方法
