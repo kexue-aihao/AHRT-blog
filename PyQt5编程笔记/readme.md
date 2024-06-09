@@ -70,5 +70,6 @@ Font按钮上显示文字的字体类型及大小
 
         引入相关类
         import sys
+        from PyQt5.QtWidgets
 
 ---------------------------
