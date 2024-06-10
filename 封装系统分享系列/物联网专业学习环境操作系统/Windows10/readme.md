@@ -84,4 +84,16 @@
 
 > https://pan.huang1111.cn/s/mo7BI1
 
+资源哈希校验值:
+
+    文件名称: Windows 10 x64 Professional Study.zip
+
+    文件大小: 23.2 GB (24,911,725,774 字节)
+
+    MD5: DABD4E8BBCC16036C71F51DED544CBB0
+
+    SHA1: F7EB2D2D519F22C20203AB8D01612AE27CB91030
+
+    CRC32: 8214F6C1
+
 ------------------------
