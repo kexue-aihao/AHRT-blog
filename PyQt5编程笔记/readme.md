@@ -313,21 +313,137 @@ QMessageBox
 ---------------------------
 
 按钮组的使用
-按钮组 ButtonGroup
-所属类 QButtonGroup
+    按钮组 ButtonGroup
+    所属类 QButtonGroup
 
-常用属性
-exclusive 布尔型 是否互斥
+    常用属性
+    exclusive 布尔型 是否互斥
 
-常用信号
-buttonClicked(object)
-按钮点击信号 该信号会携带一个对象 该对象指向选中的那个按钮本身
+    常用信号
+    buttonClicked(object)
+    按钮点击信号 该信号会携带一个对象 该对象指向选中的那个按钮本身
 
 槽函数的连接
-self.按钮组的名字.buttonClicked.connect(self.槽函数的名字)
+    self.按钮组的名字.buttonClicked.connect(self.槽函数的名字)
 
 相应的槽函数
-def 槽函数的名字(self,object):
-pass
+    def 槽函数的名字(self,object):
+        pass
+
+按钮组的应用步骤(一般是写在构造函数当中)
+
+    step1 实例化按钮组
+
+        按钮组的名字=QButtonGroup()
+
+    step2 把按钮添加到按钮组中
+
+        按钮组的名字.addButton(self.单选按钮的名字，单选按钮的编号)
+
+    step3 按钮组的信号和槽连接
+
+        按钮组的名字.buttonclicked.connect(self.槽函数的名字)
+
+    step4 响应槽函数
+
+        def 槽函数的名字(self,object):
+            得到按钮组选中的按钮编号
+            self.按钮组的名字.id(object)
+
+---------------------------
+
+多项选择按钮
+
+check box
+
+所属类 QCheckBox
+
+常用的属性
+
+    text 显示的文字 string
+
+    checkable 是否可选 布尔型
+
+    checked 是否被选中 布尔型
+
+    autoExclusive 是否自动互斥 布尔型 默认值为假
+
+常用的信号
+
+    clicked 点击
+
+    toggled (bool) 状态改变信号
+
+自定义信号
+
+    类PyqtSignal 在PyQt5.QtCore包当中
+
+定义一个自定义信号
+
+    信号名=PyqtSignal(参数表)
+    定义一个用来传输整型数据的信号
+    sing1=pyqtSignal(int)
+
+定义一个同时传输整型数据与字符串的自定义信号
+
+    sing2=pyqtSignal(int,str)
+    sing2=pyqtSignal(int,int,int) #同时传输三个整形数据
+    sing2=pyqtSignal(str,str,str) #同时传输三个字符串
+
+定义一个传输列表的自定义信号
+
+    sing3=pyqtSignal(list)
+
+定义一个传输字典的自定义信号
+    
+    sing4=pyqtSignal(dict)
+
+定义一个传输对象的自定义信号
+
+    sing5=pyqtSignal(object)
+
+---------------------------
+
+多行文本输入框 QTextEdit (支持富文本编辑)
+
+常用属性
+
+    readonly 只读属性 布尔型
+
+    acceptRichText 接受富文本 布尔型 默认打开
+
+    markdown 文本对齐方式 默认值 垂直方向左对齐 水平方向居中
+
+下拉列表框 QComboBox
+
+常用属性
+
+    currentText 当前显示的文字(当前选中的文字)str
+
+    currentIndex 当前显示的项目的下标(当前选中项的目录)int 默认值为 -1 表示什么都没选中
+
+    maxvisibleItems 下拉列表框往下拉的时候最多显示多少个项目 int 默认值是 10
+
+    insertPolicy 添加策略
+
+    sizeAdjustPolicy 大小调整策略
+
+常用信号
+
+    highlighted 当鼠标移动到下拉列表框时该信号
+
+    currentIndexChanged 当选择发生改变的时候触发
+
+常用方法
+
+    往下拉列表框添加项目
+    addItem(str)往下拉列表框添加一项
+    addItems(list)往下拉列表框添加多个项目
+
+    得到下拉列表框当前选择的项目
+    currentText()
+
+    往下拉列表删除项目(只能删除一项)
+    removeItem(int) int代表要删除的项目 从0开始
 
 ---------------------------
