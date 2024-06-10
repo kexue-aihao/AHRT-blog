@@ -158,8 +158,116 @@ PyQt5开发程序的时候
 
     import sys 引入sys类(针对的是操作系统 控制程序的运行)
     from PyQt5.QtWidgets *
-    从
+    从PyQt5的QtWidgets包中引入 所有的类(界面组件相关)
     from PyQt5.QtCore import *
+    从PyQt5的QtCore包当中引入所有类(定时器及时间日期相关)
     from PyQt5.QtGui import *
+    从PyQt5的QtGui包当中引入所有类(图形图像功能相关)
+
+引入界面类
+
+    from win import ui_zhuChuangKou 从界面文件(.py)当中引入Ui类
+
+    创建一个新的窗口类(主要是实现程序的逻辑相当于MVC模式中的CM)
+
+    该窗口类要继承两个类
+
+    第一个是窗体组件的所属类
+
+    第二个是界面文件类
+
+    class ChuangKou(QMainwindow,Ui_zhuChuangKou):
+
+重写构造函数 要在构造函数中传入一个参数 值是None
+
+    def __init(self,parent=None):
+
+在构造函数中 调用父类的构造函数
+
+    super(ChuangKou,self).__init__(parent)
+
+初始化界面
+
+    self,setupUi(self)
+
+第二种窗体类型 Widget (组件/小工具)
+
+    属于的类:QWidget
+
+    跟QMainwindow的区别:
+
+    QWidget 只有窗口 只有最小化 关闭 没有菜单栏 没有状态栏
+
+    优点:体积小 运行速度快
+
+    主要属性
+
+    windowTitle 设置窗口的标题
+
+---------------------------
+
+按钮类别
+
+单项选择按钮 Radio Button
+
+属于的类 QRadioButton
+
+常用属性
+
+text 设置单选按钮显示的文字 string
+
+checkable 设置单选按钮能否被点击(可不可以被选择)布尔型
+
+checked 设置单选按钮是否都被选中 布尔型
+
+autoExclusive 设置单选按钮是否互斥 布尔型
+
+重要:在同一个窗口类中 所有的单选按钮都是互斥
+
+主要的信号
+
+clicked 点击信号 用鼠标点击
+
+toggled 转换信号
+
+---------------------------
+
+复习1
+
+    组件的名字:主窗口(QMainwindow)
+    类型:窗体
+    所属类:QMainwindow
+    常用的属性:windowTitle 窗口的标题
+    常用的信号:没
+
+    组件的名字:小窗口(QWidget)
+    类型:窗体
+    所属类:QWidget
+    常用的属性:window Title 窗口的标题
+    常用的信号:没
+
+    组件的名字:普通按钮(Push Button)
+    类型:按钮组件
+    所属类:QPushButton
+    常用的属性:
+                text 按钮上显示的文字
+                font 按钮上显示的文字的字体
+    常用的信号:
+                clicked 鼠标点击信号
+
+    组件的名字:单选按钮 (Radio Button)
+    类型:按钮组件
+    所属类:QRadioButton
+    常用的属性:
+                text 设置单选按钮显示的文字 string
+                checkable 设置单选按钮能否被点击 布尔型
+                checked 设置单选按钮是否都被选中 布尔型
+                autoExclusive 设置单选按钮是否互斥 布尔型
+    常用的信号:
+
+                clicked 鼠标点击信号
+                toggled (bool) 状态转换信号
+
+    组件的名字:单行文本输入框 (line Edit)
 
 ---------------------------
