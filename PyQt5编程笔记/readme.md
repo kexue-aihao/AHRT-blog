@@ -268,6 +268,66 @@ toggled 转换信号
                 clicked 鼠标点击信号
                 toggled (bool) 状态转换信号
 
-    组件的名字:单行文本输入框 (line Edit)
+    组件的名字:单行文本输入框 (Line Edit)
+    类型:输入组件
+    所属类:QLineEdit
+    常用的属性:
+                text 单行文本输入框输入的文字 string
+                echoMode 设置显示风格 int
+                chormal 正常显示 值为 0
+                Password 密码 值为 2
+                noEcho 接受输入但不显示 值为 1
+                PasswordEchoOnEdit 最后一位显示为明文 值为 3
+                readonly 只读属性 布尔型 文本输入框里面的文字不能被修改
+                maxLength 设置文本输入框一行能输入最大多少个字符int
+
+    常用的信号:没
+
+    组件的名字:标签 (label)
+    类型:输出组件
+    所属类:QLabel
+    常用的属性:
+                text 标签显示的文字
+                font 标签显示文字的字体
+    常用的信号:没
+
+---------------------------
+
+弹窗组件
+
+QMessageBox
+
+使用方法:
+
+    对象名=QMessageBox(弹窗的类型，弹窗的标题,要显示的信息)
+    注意 弹窗的标题要和显示的信息是字符串的类型 所以如果是直接写字符串 那么需要用单引号把字符串引起来
+
+弹窗的类型
+
+    QMessageBox.Information 表示信息提示符
+    QMessageBox.critical 表示错误提示窗
+    QMessageBox.waring 表示警告提示窗
+
+对象名.exec() #把弹窗显示出来
+
+---------------------------
+
+按钮组的使用
+按钮组 ButtonGroup
+所属类 QButtonGroup
+
+常用属性
+exclusive 布尔型 是否互斥
+
+常用信号
+buttonClicked(object)
+按钮点击信号 该信号会携带一个对象 该对象指向选中的那个按钮本身
+
+槽函数的连接
+self.按钮组的名字.buttonClicked.connect(self.槽函数的名字)
+
+相应的槽函数
+def 槽函数的名字(self,object):
+pass
 
 ---------------------------
