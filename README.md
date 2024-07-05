@@ -16,7 +16,7 @@
 
 Telegram:
 
-    @Candy65653_bot
+    @ranzhixi001_bot
 
 ------------------------
 
