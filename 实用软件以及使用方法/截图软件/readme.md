@@ -1,4 +1,8 @@
-# Snipaste
+# 实用的截图软件
+
+--------------------
+
+## Snipaste
 
 --------------------
 
@@ -47,5 +51,47 @@ Snipaste是一款非常强大且实用的一款截图软件，而且它是免费
 Snipaste官网:
 
 > https://zh.snipaste.com/
+
+--------------------
+
+## PixPin
+
+--------------------
+
+Pixpin是一款电脑长截屏工具，它可以帮助用户轻松地捕捉整页网页或文档等内容 Pixpin是一款专为电脑用户设计的长截图工具，它的主要功能是帮助用户便捷地捕捉屏幕上的整页网页、文档或其他连续性的内容。
+
+--------------------
+
+软件预览图:
+
+![image](/img/PixPin/1.png)
+
+![image](/img/PixPin/2.png)
+
+![image](/img/PixPin/3.png)
+
+![image](/img/PixPin/4.png)
+
+![image](/img/PixPin/5.png)
+
+![image](/img/PixPin/6.png)
+
+![image](/img/PixPin/7.png)
+
+![image](/img/PixPin/8.png)
+
+![image](/img/PixPin/9.png)
+
+![image](/img/PixPin/10.png)
+
+--------------------
+
+这个软件其实说起来也挺好用的，功能方面也比Snipaste有过之无不及，但是由于我使用Snipaste的时间已经有三年多有余了，一时间改变用一个截图软件的习惯的话比较困难，所以我还是选择了Snipaste，如果有朋友还没有找到称心的截图软件的话，不妨试试这款截图软件
+
+--------------------
+
+PixPin官网:
+
+> https://pixpinapp.com/
 
 --------------------
