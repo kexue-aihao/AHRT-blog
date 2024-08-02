@@ -57,3 +57,41 @@ Gitee项目地址:
 > https://gitee.com/cxasm/notepad--
 
 ----------------------
+
+## 代理软件
+
+### Android
+
+- NekoBox for Android
+
+> https://github.com/MatsuriDayo/NekoBoxForAndroid
+
+- Clash for Android
+
+    由于未知的原因 Clash for Android 的作者已经删库了，所以这里提供的GitHub地址是GitHub一位网友提供的仓库并进行了发布，同时这里提供的也是最后一个成熟版本的最终版
+
+> https://github.com/clashdownload/Clash_for_Android/releases/tag/2.5.12
+
+- V2rayNG
+
+> https://github.com/2dust/v2rayNG
+
+- Clash Meta for Android
+
+> https://github.com/MetaCubeX/ClashMetaForAndroid
+
+- Surfboard
+
+> https://github.com/getsurfboard/surfboard
+
+- singbox
+
+> https://github.com/SagerNet/sing-box
+
+- Flclash
+
+    仿Surfboard 界面UI的一个代理软件，体验了一下全方位碾压Surfboard，用过Surfboard的可以直接下载使用，保证体验爽的起飞，没有用过Surfboard的可以先去体验下Surfboard
+
+> https://github.com/chen08209/FlClash
+
+----------------------
