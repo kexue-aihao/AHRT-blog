@@ -72,6 +72,10 @@ Mac OS:
 
 > https://github.com/kexue-aihao/AHRT-blog/tree/master/GitHub%E5%AE%9D%E8%97%8F%E9%A1%B9%E7%9B%AE#mac-os
 
+linux:
+
+> 
+
 ### Android
 
 - NekoBox for Android
@@ -106,6 +110,10 @@ Mac OS:
 
 > https://github.com/chen08209/FlClash
 
+- Hiddify for Android
+
+> https://github.com/hiddify/hiddify-next
+
 ### Windows
 
 - Clash for Windows
@@ -116,7 +124,7 @@ Mac OS:
 
 > https://github.com/2dust/v2rayN
 
-- Nekoray
+- NekoBox for Windows
 
 > https://github.com/MatsuriDayo/nekoray
 
@@ -142,7 +150,7 @@ Mac OS:
 
 > https://github.com/chen08209/FlClash
 
-- hiddify-next
+- hiddify for Windows
 
 > https://github.com/hiddify/hiddify-next
 
@@ -156,18 +164,60 @@ Mac OS:
 
 - Clash verge old
 
+    此版Clash verge已经存档不再更新
+
 > https://github.com/zzzgydi/clash-verge/releases
 
 - Clash verge rev
 
 > https://github.com/clash-verge-rev/clash-verge-rev/releases
 
-- hiddify-next
+- hiddify for Mac
 
 > https://github.com/hiddify/hiddify-next
 
 - Flclash
 
 > https://github.com/chen08209/FlClash
+
+- Clash-Nyanpasu
+
+> https://github.com/LibNyanpasu/clash-nyanpasu
+
+- NekoBox for Mac
+
+> https://github.com/abbasnaqdi/nekoray-macos
+
+### Linux
+
+Clash for Linux
+
+> https://github.com/kexue-aihao/changdingyun-Blog/releases/tag/Clash
+
+- Clash verge old
+
+    此版Clash verge已经存档不再更新
+
+> https://github.com/zzzgydi/clash-verge/releases
+
+- Clash Verge rev
+
+> https://github.com/clash-verge-rev/clash-verge-rev
+
+- Flclash
+
+> https://github.com/chen08209/FlClash
+
+- hiddify for linux
+
+> https://github.com/hiddify/hiddify-next
+
+- Clash-Nyanpasu
+
+> https://github.com/LibNyanpasu/clash-nyanpasu
+
+- NekoBox for linux
+
+> https://github.com/MatsuriDayo/nekoray
 
 ----------------------
