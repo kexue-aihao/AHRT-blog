@@ -72,9 +72,9 @@ Mac OS:
 
 > https://github.com/kexue-aihao/AHRT-blog/tree/master/GitHub%E5%AE%9D%E8%97%8F%E9%A1%B9%E7%9B%AE#mac-os
 
-linux:
+Linux:
 
-> 
+> https://github.com/kexue-aihao/AHRT-blog/tree/master/GitHub%E5%AE%9D%E8%97%8F%E9%A1%B9%E7%9B%AE#linux
 
 ### Android
 
