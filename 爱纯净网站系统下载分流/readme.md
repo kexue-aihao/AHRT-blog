@@ -76,10 +76,63 @@
 
     https://pan.huang1111.cn/s/8QMG6tQ
 
+### 爱纯净 Ghost Win7纯净版 2023.4 旗舰版
 
+网盘下载地址:
 
+    https://pan.huang1111.cn/s/xbgL7cV
 
-    
+## Windows 10
+
+### Ghost Win10纯净版64位系统 2024.08 22H2企业版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/qgVmXu3
+
+### Ghost Win10纯净版64位系统 2024.08 22H2专业版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/O8xDWfL
+
+### Ghost Win10纯净版64位系统 2024.08 LTSC版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/eNGyjUg
+
+### Ghost Win10纯净版64位系统 2024.07 22H2企业版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/qgV9Xs3
+
+### Ghost Win10纯净版64位系统 2024.07 22H2专业版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/byNPOFY
+
+### Ghost Win10纯净版64位系统 2024.07 LTSC版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/8QM7xHQ
+
+### Ghost Win10纯净版64位系统 2024.06 22H2企业版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/5XeAgIl
+
+## Windows 11
+
+### Ghost Win11纯净版64位系统 2024.08 23H2企业版
+
+网盘下载地址:
+
+    https://pan.huang1111.cn/s/A6bo8iB
 
 ----------------------------
 
