@@ -7,7 +7,7 @@
 [Proton匿名电子邮箱](https://proton.me "Proton匿名电子邮箱")
 
 *网站界面预览图*
-22222222
-![image](/img/实用网站/匿名邮箱/1.png)
+
+![image](/img/实用网站/匿名邮箱/Proton.png)
 
 ----------------------
