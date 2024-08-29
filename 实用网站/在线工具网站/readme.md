@@ -18,25 +18,45 @@
 
 [多地Ping、常规版、icmp协议、网络延迟测试](https://www.itdog.cn/ping "多地Ping、常规版、icmp协议、网络延迟测试")
 
+- **多地Tcping、禁Ping版、tcp协议、tcping、端口延迟测试**
+
+*网站预览图:*
+
+![image](/img/实用网站/在线工具网站/3.png)
+
+[多地Tcping、禁Ping版、tcp协议、tcping、端口延迟测试]( "多地Tcping、禁Ping版、tcp协议、tcping、端口延迟测试")
+
+- **在线traceroute、在线路由追踪、在线tracert、在线MTR**
+
+*网站预览图:*
+
+![image](/img/实用网站/在线工具网站/4.png)
+
+[在线traceroute、在线路由追踪、在线tracert、在线MTR](https://www.itdog.cn/traceroute "在线traceroute、在线路由追踪、在线tracert、在线MTR")
+
+- **DNS记录查询、DNS解析查询、DNS测试、DNS检测**
+
+*网站预览图:*
+
+![image](/img/实用网站/在线工具网站/5.png)
+
+[DNS记录查询、DNS解析查询、DNS测试、DNS检测]( "DNS记录查询、DNS解析查询、DNS测试、DNS检测")
+
+- **快速查找IP段中可以Ping的IP、快速Ping检测、IP段批量Ping、IP段检测、IP段存活检测**
+
+*网站预览图:*
+
 ![image](/img/实用网站/在线工具网站/.png)
 
-[]( "")
+[快速查找IP段中可以Ping的IP、快速Ping检测、IP段批量Ping、IP段检测、IP段存活检测](https://www.itdog.cn/find_ping "快速查找IP段中可以Ping的IP、快速Ping检测、IP段批量Ping、IP段检测、IP段存活检测")
+
+- **本地网络、本地IP、多地IP测试、IPv6检测、线路分流检测、IP泄露测试、DNS出口泄露测试、本地网络环境检测**
+
+*网站预览图:*
 
 ![image](/img/实用网站/在线工具网站/.png)
 
-[]( "")
-
-![image](/img/实用网站/在线工具网站/.png)
-
-[]( "")
-
-![image](/img/实用网站/在线工具网站/.png)
-
-[]( "")
-
-![image](/img/实用网站/在线工具网站/.png)
-
-[]( "")
+[本地网络、本地IP、多地IP测试、IPv6检测、线路分流检测、IP泄露测试、DNS出口泄露测试、本地网络环境检测]( "本地网络、本地IP、多地IP测试、IPv6检测、线路分流检测、IP泄露测试、DNS出口泄露测试、本地网络环境检测")
 
 ![image](/img/实用网站/在线工具网站/.png)
 
