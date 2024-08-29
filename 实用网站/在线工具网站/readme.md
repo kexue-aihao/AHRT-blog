@@ -2,17 +2,21 @@
 
 -------------------------
 
-**网站测速、网站速度诊断、HTTP速度测试、WEB速度测试、CDN测速、API测速**
+- **网站测速、网站速度诊断、HTTP速度测试、WEB速度测试、CDN测速、API测速**
 
-*网站预览图*
+*网站预览图:*
 
 ![image](/img/实用网站/在线工具网站/1.png)
 
 [网站测速、网站速度诊断、HTTP速度测试、WEB速度测试、CDN测速、API测速](https://www.itdog.cn/http "网站测速、网站速度诊断、HTTP速度测试、WEB速度测试、CDN测速、API测速")
 
-![image](/img/实用网站/在线工具网站/.png)
+- **多地Ping、常规版、icmp协议、网络延迟测试**
 
-[]( "")
+*网站预览图:*
+
+![image](/img/实用网站/在线工具网站/2.png)
+
+[多地Ping、常规版、icmp协议、网络延迟测试](https://www.itdog.cn/ping "多地Ping、常规版、icmp协议、网络延迟测试")
 
 ![image](/img/实用网站/在线工具网站/.png)
 
