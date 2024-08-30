@@ -114,13 +114,21 @@
 
 [希尔密码在线加解密](https://tool.chinaz.com/tools/hill "希尔密码在线加解密")
 
-![image](/img/实用网站/在线工具网站/.png)
+- **摩斯密码在线加解密**
 
-[]( "")
+*网站预览图:*
 
-![image](/img/实用网站/在线工具网站/.png)
+![image](/img/实用网站/在线工具网站/15.png)
 
-[]( "")
+[摩斯密码在线加解密](https://tool.chinaz.com/tools/morse "摩斯密码在线加解密")
+
+- **DES、AES等对称算法在线加解密**
+
+*网站预览图:*
+
+![image](/img/实用网站/在线工具网站/16.png)
+
+[DES、AES等对称算法在线加解密]( "DES、AES等对称算法在线加解密")
 
 ![image](/img/实用网站/在线工具网站/.png)
 
